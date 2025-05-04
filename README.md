@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-awais-hussain" alt="m-awais-hussain" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects and Generative AI**
 
 - 🌱 I’m currently learning **Advanced Machine Learning Frameworks (TensorFlow, PyTorch)**
 
