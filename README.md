@@ -53,40 +53,51 @@ I am an <b>AI Engineer focused on Generative AI and Autonomous AI Agents</b>.
 
 <h3 align="left">🧠 Languages & Tools</h3>
 
-<img alt="Coder GIF" align="right" height="180" width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" align="right" height="180" width="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,mysql,tensorflow,docker,fastapi,flask,streamlit"/>
+<!-- Programming & Frameworks -->
+<p align="left">
+<strong>💻 Programming & Frameworks</strong><br>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,mysql,docker,fastapi,flask,streamlit" height="35"/>
+</p>
 
-<br><br>
+<!-- Machine Learning & Data Science -->
+<p align="left">
+<strong>🤖 Machine Learning & Data Science</strong><br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn" height="30"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface" height="30"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/CrewAI-black?style=for-the-badge" height="30"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+</p>
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-black?style=for-the-badge"/>
+<!-- Computer Vision & Automation -->
+<p align="left">
+<strong>📷 Computer Vision & Automation</strong><br>
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Mediapipe-blue?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/N8N-red?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/LangFlow-black?style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Make.com-purple?style=for-the-badge" height="30"/>
+</p>
 
-<br><br>
+<!-- Business Intelligence & Databases -->
+<p align="left">
+<strong>📊 Business Intelligence & Databases</strong><br>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" height="30"/>
+<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel" height="30"/>
+<img src="https://img.shields.io/badge/OracleSQL-red?style=for-the-badge&logo=oracle" height="30"/>
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mediapipe-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/N8N-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangFlow-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Make.com-purple?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel"/>
-<img src="https://img.shields.io/badge/OracleSQL-red?style=for-the-badge&logo=oracle"/>
 
 </div>
 
