@@ -50,13 +50,14 @@ I am an <b>AI Engineer focused on Generative AI and Autonomous AI Agents</b>.
 
 ---
 
+
 <h3 align="left">🧠 Languages & Tools</h3>
 
-<div align="left">
+<img alt="Coder GIF" align="right" height="180" width=250 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dart,flutter,mysql,tensorflow,docker,fastapi,flask,streamlit"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn"/>
@@ -66,14 +67,14 @@ I am an <b>AI Engineer focused on Generative AI and Autonomous AI Agents</b>.
 <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CrewAI-black?style=for-the-badge"/>
 
-<br>
+<br><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mediapipe-blue?style=for-the-badge"/>
@@ -81,7 +82,7 @@ I am an <b>AI Engineer focused on Generative AI and Autonomous AI Agents</b>.
 <img src="https://img.shields.io/badge/LangFlow-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Make.com-purple?style=for-the-badge"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel"/>
@@ -117,7 +118,7 @@ I am an <b>AI Engineer focused on Generative AI and Autonomous AI Agents</b>.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-Awais-Hussain&theme=dracula&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-trophies.vercel.app/?username=M-Awais-Hussain"/>
 
 </div>
 
